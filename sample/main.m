@@ -9,7 +9,8 @@
 #import <Foundation/Foundation.h>
 
 int main(int argc, const char * argv[]) {
- 
+    
+    // some sample code with NSSortDescriptor
     // array to be sorted
     NSArray *middleEarthers = @[ @{ @"name"   : @"Bilbo"  ,
                                     @"age"    : @50       ,
